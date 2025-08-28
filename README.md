@@ -12,6 +12,7 @@ The goal is to identify patterns and insights that can help in understanding dia
 - Power Query
 - Data Cleaning, Data Modeling, Dashboard Design
 ## 📂 File
+1. Diabetes 
 - (https://github.com/YashaswiniBaglakadi/Diabetes-Analysis/tree/3bf1ae56a24cb65120e9f6579038fb77b6a8754e/Diabetes)
 
 ---
